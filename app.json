@@ -19,22 +19,22 @@
   }],
   "env": {
     "API_ID": {
-      "description": 16613649
+      "description": "App api_id from https://my.telegram.org"
     },
     "API_HASH": {
-      "description": "85c0631c22559e35be6a16f5cab26f3f"
+      "description": "App api_hash from https://my.telegram.org"
     },
     "BOT_TOKEN": {
-      "description": "6997719928:AAFOntUQfpz_LDIRoajHIiYWvR6n4IvvyU0"
+      "description": "Bot token from https://t.me/BotFather"
     },
     "TELEGRAM_USER_ID": {
-      "description": "1291979727"
+      "description": "Get your telegram user_id from @userinfobot"
     },
     "MEGA.NZ_EMAIL": {
-      "description": "devadigaviggu71@gmail.com"
+      "description": "Create account on mega.nz"
     },
     "MEGA.NZ_PASSWORD": {
-      "description": "akshay#2007"
+      "description": "Create account on mega.nz"
     }
   }
 }
