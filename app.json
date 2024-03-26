@@ -19,7 +19,7 @@
   }],
   "env": {
     "API_ID": {
-      "description": "16613649″
+      "description": 16613649
     },
     "API_HASH": {
       "description": "85c0631c22559e35be6a16f5cab26f3f"
